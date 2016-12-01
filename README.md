@@ -1,2 +1,1 @@
-# CS-61A
-CS 61A
+Labs for [uc berkeley cs61a](http://cs61a.org/)
